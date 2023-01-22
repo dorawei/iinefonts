@@ -21,7 +21,7 @@ jobs:
     - name: Install fonttools
       run: pip install fonttools
 	
-	- name: Install brotli
+    - name: Install brotli
       run: pip install brotli
 
     - name: Run the main script
