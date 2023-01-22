@@ -1,0 +1,38 @@
+{
+    "": {
+        "Copyright": "[Cubic 11]\r\nThese fonts are free software.\r\nUnlimited permission is granted to use, copy, and distribute them, with or without modification, either commercially or noncommercially.\r\nTHESE FONTS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY.\r\n\r\n\r\n\r\n[JF Dot M+H 12]\r\nCopyright(c) 2005 M+ FONTS PROJECT\r\n[M+ BITMAP FONTS]\r\nCopyright (C) 2002-2004 COZ\r\nThese fonts are free software.\r\nUnlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially.\r\nTHESE FONTS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY.\r\n\r\n",
+        "Font Family": "Cubic 11",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "1.013",
+        "Full Name": "Cubic 11",
+        "Version": "1.013",
+        "Postscript Name": "Cubic_11",
+        "Designer": "[Cubic 11]\r\nNeo K. Shih-yin, Ke.\r\nCen-cyun, Liu. Luke Liu.\r\n[M+ BITMAP FONTS]\r\n",
+        "Unknown": "Double-struck"
+    },
+    "en": {
+        "Copyright": "[Cubic 11]\r\nThese fonts are free software.\r\nUnlimited permission is granted to use, copy, and distribute them, with or without modification, either commercially or noncommercially.\r\nTHESE FONTS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY.\r\n此字型是免費的。\r\n無論您是否進行對本字型進行商業或非商業性修改，均可無限制地使用，複製和分發它們。\r\n本字型的衍生品之授權必須與此字型相同，且不作任何擔保。\r\n[JF Dot M+H 12]\r\nCopyright(c) 2005 M+ FONTS PROJECT\r\n[M+ BITMAP FONTS]\r\nCopyright (C) 2002-2004 COZ\r\nThese fonts are free software.\r\nUnlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially.\r\nTHESE FONTS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY.\r\nこれらのフォントはフリー（自由な）ソフトウエアです。\r\nあらゆる改変の有無に関わらず、また商業的な利用であっても、自由にご利用、複製、再配布することができますが、全て無保証とさせていただきます。",
+        "Font Family": "Cubic 11",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "1.013",
+        "Full Name": "Cubic 11",
+        "Version": "1.013",
+        "Postscript Name": "Cubic_11",
+        "Designer": "[Cubic 11]\r\nNeo K. Shih-yin, Ke.（繁體字、簡體字、注音符號、台粵閩客語字）\r\nCen-cyun, Liu. Luke Liu.（繁體字、簡體字、台粵閩客語字）\r\n[M+ BITMAP FONTS]\r\n森下浩司（日語漢字、歐文、平假名、片假名）",
+        "Unknown": "Double-struck"
+    },
+    "ja": {
+        "Font Family": "俐方體11号",
+        "Full Name": "俐方體11号"
+    },
+    "zh-CN": {
+        "Font Family": "俐方体11号",
+        "Full Name": "俐方体11号",
+        "Unknown": "数学文本—黑板粗体"
+    },
+    "zh-HK": {
+        "Font Family": "俐方體11號",
+        "Full Name": "俐方體11號",
+        "Unknown": "數學文本—黑板粗體"
+    }
+}

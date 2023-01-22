@@ -1,0 +1,38 @@
+{
+    "": {
+        "Copyright": "Typing Art",
+        "Font Family": "KokoroMinchoutai",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "KokoroMinchoutai",
+        "Full Name": "KokoroMinchoutai",
+        "Version": "Version 1.00",
+        "Postscript Name": "KokoroMinchoutai",
+        "Trademark": "KokoroMinchoutai",
+        "Sample Text": "こころ明朝体",
+        "WWS Family Name": "KokoroMinchoutai"
+    },
+    "en": {
+        "Copyright": "Typing Art",
+        "Font Family": "KokoroMinchoutai",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "KokoroMinchoutai",
+        "Full Name": "KokoroMinchoutai",
+        "Version": "Version 1.00",
+        "Postscript Name": "KokoroMinchoutai",
+        "Trademark": "KokoroMinchoutai",
+        "Typographic Subfamily": "KokoroMinchoutai",
+        "Compatible Full (Mac only)": "Regular"
+    },
+    "ja": {
+        "Copyright": "タイピングアート",
+        "Font Family": "こころ明朝体",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "こころ明朝体",
+        "Full Name": "こころ明朝体",
+        "Version": "Version 1.00",
+        "Postscript Name": "KokoroMinchoutai",
+        "Trademark": "こころ明朝体",
+        "Typographic Subfamily": "こころ明朝体",
+        "Compatible Full (Mac only)": "Regular"
+    }
+}

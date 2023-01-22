@@ -1,0 +1,31 @@
+{
+    "": {
+        "Font Family": "GenWanMin TW M",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "1.501;ZIHI;GenWanMinTW-M",
+        "Full Name": "GenWanMin TW M",
+        "Version": "Version 1.501;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220",
+        "Postscript Name": "GenWanMinTW-M",
+        "Typographic Subfamily": "GenWanMin TW",
+        "Compatible Full (Mac only)": "M"
+    },
+    "en": {
+        "Font Family": "GenWanMin TW M",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "1.501;ZIHI;GenWanMinTW-M",
+        "Full Name": "GenWanMin TW M",
+        "Version": "Version 1.501;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220",
+        "Postscript Name": "GenWanMinTW-M",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "Reserved": "http://scripts.sil.org/OFL",
+        "Typographic Subfamily": "GenWanMin TW",
+        "Compatible Full (Mac only)": "M"
+    },
+    "zh-HK": {
+        "Font Family": "源雲明體 M",
+        "Font Subfamily": "Regular",
+        "Full Name": "源雲明體 M",
+        "Typographic Subfamily": "源雲明體",
+        "Compatible Full (Mac only)": "M"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "": {
+        "Font Family": "Tiejili SC",
+        "Font Subfamily": "Regular",
+        "Full Name": "Tiejili SC Regular",
+        "Version": "Version 1.100;Glyphs 3.1.1 (3146)",
+        "Postscript Name": "TiejiliSC-Regular",
+        "URL": "https://github.com/Buernia",
+        "License Description": "https://github.com/Buernia",
+        "Reserved": "https://scripts.sil.org/OFL"
+    },
+    "en": {
+        "Copyright": "Copyright © 2022 Buernia (https://github.com/Buernia).",
+        "Font Family": "Tiejili SC",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "1.100;Buer;TiejiliSC-Regular",
+        "Full Name": "Tiejili SC Regular",
+        "Version": "Version 1.100;Glyphs 3.1.1 (3146)",
+        "Postscript Name": "TiejiliSC-Regular",
+        "Manufacturer": "Ershou Xiaoxi Press",
+        "Designer": "Buernia",
+        "URL": "https://github.com/Buernia",
+        "License Description": "https://github.com/Buernia",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "Reserved": "https://scripts.sil.org/OFL",
+        "Typographic Subfamily": "Tiejili SC",
+        "Compatible Full (Mac only)": "Regular",
+        "Unknown": "Centered CJK Punctuation"
+    },
+    "zh-CN": {
+        "Font Family": "Tiejili SC",
+        "Font Subfamily": "Regular",
+        "Full Name": "Tiejili SC Regular",
+        "Manufacturer": "弍手消息社",
+        "Designer": "奈白不弍",
+        "Typographic Subfamily": "铁蒺藜体 简",
+        "Compatible Full (Mac only)": "Regular",
+        "Unknown": "居中中日韩标点"
+    }
+}

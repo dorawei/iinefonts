@@ -1,0 +1,38 @@
+{
+    "": {
+        "Copyright": "[Kosugi Maru]\nCopyright© 2010 MOTOYA CO.,LTD.\n\n[Varela Round]\nCopyright© 2011-2016 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names 'Varela' and 'Varela Round'.\n\n[jf open huninn]\nCopyright© 2020 The jf open huninn font is redistributed by justfont CO.,LTD, with Reserved Font Names 'open huninn' and 'huninn' under SIL Open Font License. The Hanzi part of this project was derived from Kosugi Maru under Apache-2.0 (https://www.apache.org/licenses/LICENSE-2.0).\n\n[MaoKen TangYuan]\nCopyright© 2020 Maoken, NFSL2001. The MaoKen TangYuan font is redistributed by maoken.com, with Reserved Font Names 'TangYuan' and 'Tang Yuan' under SIL Open Font License.",
+        "Font Family": "MaoKenTangYuan (beta)",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "0.12beta;MAOK;MaoKenTangYuan-beta0.12;20210702",
+        "Full Name": "MaoKenTangYuan-beta",
+        "Version": "Version 0.13beta;20210702 ",
+        "Postscript Name": "MaoKenTangYuan-beta",
+        "Manufacturer": "Maoken&NFSL2001",
+        "License Description": "http://www.maoken.com",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License,Version 1.1.This Font Software is distributed on an \"AS IS\",WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,either express or implied.See the SIL Open Font License for the specific languages,permissions and limitations governing your use of this Font Software.",
+        "Reserved": "http://scripts.sil.org/OFL"
+    },
+    "en": {
+        "Copyright": "[Kosugi Maru]\nCopyright© 2010 MOTOYA CO.,LTD.\n\n[Varela Round]\nCopyright© 2011-2016 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names 'Varela' and 'Varela Round'.\n\n[jf open huninn]\nCopyright© 2020 The jf open huninn font is redistributed by justfont CO.,LTD, with Reserved Font Names 'open huninn' and 'huninn' under SIL Open Font License. The Hanzi part of this project was derived from Kosugi Maru under Apache-2.0 (https://www.apache.org/licenses/LICENSE-2.0).\n\n[MaoKen TangYuan]\nCopyright© 2020 Maoken, NFSL2001. The MaoKen TangYuan font is redistributed by maoken.com, with Reserved Font Names 'TangYuan' and 'Tang Yuan' under SIL Open Font License.",
+        "Font Family": "MaoKenTangYuan (beta)",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "0.12beta;MAOK;MaoKenTangYuan-beta0.12;20210702",
+        "Full Name": "MaoKenTangYuan-beta",
+        "Version": "Version 0.13beta;20210702 ",
+        "Postscript Name": "MaoKenTangYuan-beta",
+        "Manufacturer": "Maoken&NFSL2001",
+        "License Description": "http://www.maoken.com",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License,Version 1.1.This Font Software is distributed on an \"AS IS\",WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,either express or implied.See the SIL Open Font License for the specific languages,permissions and limitations governing your use of this Font Software.",
+        "Reserved": "http://scripts.sil.org/OFL"
+    },
+    "zh-CN": {
+        "Font Family": "猫啃网糖圆体 (测试版)",
+        "Font Subfamily": "Regular",
+        "Full Name": "猫啃网糖圆体-测试版",
+        "Version": "版本 0.12测试版；20210702",
+        "Manufacturer": "猫啃网&夜煞之乐2001",
+        "License Description": "http://www.maoken.com",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License,Version 1.1.This Font Software is distributed on an \"AS IS\",WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,either express or implied.See the SIL Open Font License for the specific languages,permissions and limitations governing your use of this Font Software.",
+        "Reserved": "http://scripts.sil.org/OFL"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "en": {
+        "Copyright": "Copyright 2021 LXGW (https://github.com/lxgw/LxgwMarkerGothic)\r\nCopyright 2020 The Tanugo Project Authors (https://github.com/tanukifont/Tanugo)",
+        "Font Family": "LXGW Marker Gothic",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "LXGW Marker Gothic:Version 0.002",
+        "Full Name": "LXGW Marker Gothic",
+        "Version": "Version 0.002;January 30, 2021;FontCreator 13.0.0.2613 64-bit",
+        "Postscript Name": "LXGWMarkerGothic",
+        "URL": "https://github.com/lxgw/LxgwMarkerGothic",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "Reserved": "http://scripts.sil.org/OFL"
+    },
+    "ja": {
+        "Font Family": "LXGW Marker Gothic",
+        "Font Subfamily": "Regular",
+        "Typographic Subfamily": "LXGW Marker Gothic",
+        "Compatible Full (Mac only)": "Regular"
+    },
+    "zh-CN": {
+        "Font Family": "霞鹜漫黑",
+        "Typographic Subfamily": "霞鹜漫黑"
+    }
+}

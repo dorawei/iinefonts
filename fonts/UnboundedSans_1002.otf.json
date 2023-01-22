@@ -1,0 +1,32 @@
+{
+    "en": {
+        "Copyright": "Copyright 2022-2023 The Unbounded Sans Project Authors (https://github.com/NightFurySL2001/unbounded-sans)\nCopyright 2020 The Dela Sans Project Authors (https://github.com/syakuzen/DelaGothic)",
+        "Font Family": "Unbounded Sans",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "Version 1.002; 20230101;NFSL;UnboundedSans-Regular;2022",
+        "Full Name": "Unbounded Sans Regular",
+        "Version": "Version 1.002; 20230101",
+        "Postscript Name": "UnboundedSans-Regular",
+        "Designer": "aratakana, Unbounded Sans team",
+        "License Description": "https://github.com/NightFurySL2001/unbounded-sans",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+        "Reserved": "https://scripts.sil.org/OFL",
+        "Typographic Subfamily": "Unbounded Sans",
+        "Compatible Full (Mac only)": "Regular",
+        "PostScript CID findfont name": "Unbounded Type, Unbounded Future"
+    },
+    "zh-CN": {
+        "Copyright": "版权 2022-2023 无界黑补字计划作者（https://github.com/NightFurySL2001/unbounded-sans）。\n版权 2020 Dela Sans 计划作者（https://github.com/syakuzen/DelaGothic）",
+        "Font Family": "无界黑",
+        "Font Subfamily": "Regular",
+        "Full Name": "无界黑 Regular",
+        "Version": "版本 1.002；20230101",
+        "Designer": "aratakana, 无界黑补字计划小组",
+        "License Description": "https://github.com/NightFurySL2001/unbounded-sans",
+        "License Info URL": "本字型软件以 SIL 开源字型授权（SIL OFL）1.1 版授权。本授权全文及常见问题解答（FAQ）可在 http://scripts.sil.org/OFL 查阅。",
+        "Reserved": "https://scripts.sil.org/OFL",
+        "Typographic Subfamily": "无界黑",
+        "Compatible Full (Mac only)": "Regular",
+        "PostScript CID findfont name": "字体无界，开源无界"
+    }
+}

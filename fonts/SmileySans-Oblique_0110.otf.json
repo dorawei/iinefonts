@@ -1,0 +1,35 @@
+{
+    "": {
+        "Font Family": "Smiley Sans Oblique",
+        "Font Subfamily": "Regular",
+        "Full Name": "Smiley Sans Oblique",
+        "Version": "Version 1.1.0",
+        "Postscript Name": "SmileySans-Oblique"
+    },
+    "en": {
+        "Copyright": "Copyright © 2022–2023 atelierAnchor. All rights reserved.",
+        "Font Family": "Smiley Sans Oblique",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "1.1.0;UKWN;SmileySans-Oblique",
+        "Full Name": "Smiley Sans Oblique",
+        "Version": "Version 1.1.0",
+        "Postscript Name": "SmileySans-Oblique",
+        "Manufacturer": "atelierAnchor",
+        "Designer": "oooooohmygosh, Nagisa Chen, Janine Sui, Heda Shi, Jian Li",
+        "URL": "https://atelier-anchor.com",
+        "License Description": "https://atelier-anchor.com",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "Reserved": "https://scripts.sil.org/OFL",
+        "Typographic Subfamily": "Smiley Sans",
+        "Compatible Full (Mac only)": "Oblique"
+    },
+    "zh-CN": {
+        "Copyright": "Copyright © 2022–2023 atelierAnchor. All rights reserved.",
+        "Font Family": "得意黑",
+        "Full Name": "得意黑 斜体",
+        "Manufacturer": "atelierAnchor 锚坞",
+        "Designer": "oooooohmygosh, 陈渚, 眭佳宁, 史贺达, 李健",
+        "Typographic Subfamily": "得意黑",
+        "Compatible Full (Mac only)": "斜体"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "": {
+        "Font Family": "GenSenRounded TW L",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "1.501;ZIHI;GenSenRoundedTW-L",
+        "Full Name": "GenSenRounded TW L",
+        "Version": "Version 1.501;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220",
+        "Postscript Name": "GenSenRoundedTW-L",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "Reserved": "http://scripts.sil.org/OFL",
+        "Typographic Subfamily": "GenSenRounded TW",
+        "Compatible Full (Mac only)": "L"
+    },
+    "en": {
+        "Font Family": "GenSenRounded TW L",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "1.501;ZIHI;GenSenRoundedTW-L",
+        "Full Name": "GenSenRounded TW L",
+        "Version": "Version 1.501;PS 1;hotconv 16.6.51;makeotf.lib2.5.65220",
+        "Postscript Name": "GenSenRoundedTW-L",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "Reserved": "http://scripts.sil.org/OFL",
+        "Typographic Subfamily": "GenSenRounded TW",
+        "Compatible Full (Mac only)": "L"
+    },
+    "zh-HK": {
+        "Font Family": "源泉圓體 L",
+        "Font Subfamily": "Regular",
+        "Full Name": "源泉圓體 L",
+        "Typographic Subfamily": "源泉圓體",
+        "Compatible Full (Mac only)": "L"
+    }
+}

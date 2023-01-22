@@ -1,0 +1,33 @@
+{
+    "": {
+        "Copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2010. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+        "Font Family": "HannariMincho",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "1.020;UKWN;HannariMincho-Regular",
+        "Full Name": "HannariMincho",
+        "Version": "Version 1.020;hotconv 1.0.109;makeotfexe 2.5.65596",
+        "Postscript Name": "HannariMincho-Regular",
+        "Designer": "Typngart & Co.",
+        "License Description": "https://typingart.net",
+        "License Info URL": "http://ipafont.ipa.go.jp/ipa_font_license_v1.html",
+        "Reserved": "http://ipafont.ipa.go.jp/ipa_font_license_v1.html"
+    },
+    "en": {
+        "Copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2010. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+        "Font Family": "HannariMincho",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "1.020;UKWN;HannariMincho-Regular",
+        "Full Name": "HannariMincho",
+        "Version": "Version 1.020;hotconv 1.0.109;makeotfexe 2.5.65596",
+        "Postscript Name": "HannariMincho-Regular",
+        "Designer": "Typngart & Co.",
+        "License Description": "https://typingart.net",
+        "License Info URL": "http://ipafont.ipa.go.jp/ipa_font_license_v1.html",
+        "Reserved": "http://ipafont.ipa.go.jp/ipa_font_license_v1.html"
+    },
+    "ja": {
+        "Font Family": "はんなり明朝",
+        "Font Subfamily": "Regular",
+        "Full Name": "はんなり明朝"
+    }
+}

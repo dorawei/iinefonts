@@ -1,0 +1,36 @@
+{
+    "en": {
+        "Copyright": "Copyright © 2003-2022 I.Font Project; Information-technology Promotion Agency, Japan (IPA), 2011-2018. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+        "Font Family": "I.Ming",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "I.Ming: Version 8.000",
+        "Full Name": "I.Ming",
+        "Version": "Version 8.000; Sep 06, 2022",
+        "Postscript Name": "I.Ming-Regular",
+        "Designer": "I.Font Project",
+        "License Info URL": "IPA Open Font License v1.0",
+        "Reserved": "http://ipafont.ipa.go.jp/ipa_font_license_v1.html",
+        "Unknown": "Single-storey letterform for Putonghua Pinyin"
+    },
+    "ja": {
+        "Font Family": "一点明朝",
+        "Font Subfamily": "Regular",
+        "Full Name": "一点明朝",
+        "Designer": "一点フォントプロジェクト",
+        "Unknown": "中国語官話普通話拼音手書きアルファベット"
+    },
+    "zh-CN": {
+        "Font Family": "一点明体",
+        "Font Subfamily": "Regular",
+        "Full Name": "一点明体",
+        "Designer": "一点字坊",
+        "Unknown": "汉语官话普通话拼音单层字母"
+    },
+    "zh-HK": {
+        "Font Family": "一點明體",
+        "Font Subfamily": "Regular",
+        "Full Name": "一點明體",
+        "Designer": "一點字坊",
+        "Unknown": "漢語官話普通話拼音單層字母"
+    }
+}

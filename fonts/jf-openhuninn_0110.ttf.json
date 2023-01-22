@@ -1,0 +1,28 @@
+{
+    "en": {
+        "Copyright": "[Kosugi Maru]\n      Copyright(c)2010 MOTOYA CO.,LTD.            \n\n      [Varela Round]\n      Copyright 2011-2016 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names 'Varela' and 'Varela Round'.            \n\n      [jf open huninn]\n      2020(c)The jf open huninn font is redistributed by justfont CO.,LTD, with Reserved Font Names 'open huninn' and 'huninn'. under SIL Open Font License. The Hanzi part of this project was derived from Kosugi Maru under Apache-2.0 (https://www.apache.org/licenses/LICENSE-2.0).",
+        "Font Family": "jf-openhuninn-1.1",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "jf-openhuninn-1.1;Regular;1.1;2020-03-14;justfont CO.,LTD.",
+        "Full Name": "jf-openhuninn-1.1",
+        "Version": "1.1",
+        "Postscript Name": "jf-openhuninn-1.1",
+        "Trademark": "openhuninn is a trademark of justfont CO.,LTD.",
+        "Manufacturer": "justfont CO.,LTD.",
+        "Designer": "[Kosugi Maru]\n      Designed by Motoya company      \n\n      [Varela Round]\n      Joe Prince(Latin component); Avraham Cornfeld(Hebrew component)     \n\n      [jf open huninn]\n      Chiaki.C, Bold, GoRong, Rose, Yunshan(Traditional chinese characters); GoRong(Diacritics); Chiaki.C, Bold(bopomofo); Michael(Programming)",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "Reserved": "http://scripts.sil.org/OFL",
+        "Typographic Subfamily": "jf-openhuninn-1.1",
+        "Compatible Full (Mac only)": "Regular"
+    },
+    "zh-HK": {
+        "Copyright": "[Kosugi Maru]\n      Copyright(c)2010 MOTOYA CO.,LTD.            \n\n      [Varela Round]\n      Copyright 2011-2016 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names 'Varela' and 'Varela Round'.            \n\n      [jf open huninn]\n      2020(c)The jf open huninn font is redistributed by justfont CO.,LTD, with Reserved Font Names 'open huninn' and 'huninn'. under SIL Open Font License. The Hanzi part of this project was derived from Kosugi Maru under Apache-2.0 (https://www.apache.org/licenses/LICENSE-2.0).",
+        "Font Family": "jf open 粉圓 1.1",
+        "Font Subfamily": "Regular",
+        "Full Name": "jf open 粉圓 1.1",
+        "License Info URL": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+        "Reserved": "http://scripts.sil.org/OFL",
+        "Typographic Subfamily": "jf open 粉圓 1.1",
+        "Compatible Full (Mac only)": "Regular"
+    }
+}

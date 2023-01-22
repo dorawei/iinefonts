@@ -1,0 +1,32 @@
+{
+    "": {
+        "Copyright": "Nozomi Seto",
+        "Font Family": "SetoFont-SP",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "SetoFont-SP",
+        "Full Name": "SetoFont-SP",
+        "Version": "Version 6.20",
+        "Postscript Name": "SetoFont-SP",
+        "Trademark": "SetoFont-SP"
+    },
+    "en": {
+        "Copyright": "Nozomi Seto",
+        "Font Family": "SetoFont-SP",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "SetoFont-SP",
+        "Full Name": "SetoFont-SP",
+        "Version": "Version 6.20",
+        "Postscript Name": "SetoFont-SP",
+        "Trademark": "SetoFont-SP"
+    },
+    "ja": {
+        "Copyright": "瀬戸のぞみ",
+        "Font Family": "瀬戸フォント-SP",
+        "Font Subfamily": "Regular",
+        "Unique Identifier": "瀬戸フォント-SP",
+        "Full Name": "瀬戸フォント-SP",
+        "Version": "Version 6.20",
+        "Postscript Name": "SetoFont-SP",
+        "Trademark": "瀬戸フォント-SP"
+    }
+}
