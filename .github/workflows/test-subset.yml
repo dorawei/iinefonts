@@ -8,9 +8,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
+    - name: Checkout main branch
       uses: actions/checkout@v3
-
+      with:
+        ref: main
+    - name: Fetch the remote output branch
+      run: git fetch origin output
+    - name: Checkout output branch
+      run: git checkout output
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -25,6 +30,7 @@ jobs:
     - name: Run the main script
       run: python main.py
 
+
     - name: Add the output files
       run: git add output_files/
 
@@ -38,4 +44,4 @@ jobs:
       run: git pull origin output
       
     - name: Push the output files to the output branch
-      run: git push origin main:output
+      run: git push origin output
