@@ -14,8 +14,6 @@ jobs:
         ref: main
     - name: Fetch the remote output branch
       run: git fetch origin output
-    - name: Checkout output branch
-      run: git checkout output
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -29,10 +27,11 @@ jobs:
 
     - name: Run the main script
       run: python main.py
-
-
+    - name: Checkout output branch
+      run: git checkout output
     - name: Add the output files
       run: git add output_files/
+
 
     - name: Commit the output files
       run: |
