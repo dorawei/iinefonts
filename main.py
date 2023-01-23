@@ -13,7 +13,7 @@ def generate_css(font_name, slice_id, unicode_ranges, lang, css_code_complete):
   font-family: '{font_name}';
   font-style: normal;
   font-weight: 400;
-  src: url(https://placeholder.com/{font_name}/{font_name}_{lang}_{slice_id}.woff2) format('woff2');
+  src: url(https://webfonts.iine.ink/output_files/{font_name}/{font_name}_{lang}_{slice_id}.woff2) format('woff2');
   unicode-range: {unicode_ranges};
 }}\n"""
     css_code = css_template.format(font_name=font_name, slice_id=slice_id, unicode_ranges=unicode_ranges, lang=lang)
