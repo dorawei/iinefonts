@@ -8,10 +8,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    
-    - name: Git pull
-      run: git pull origin output
-      
     - name: Checkout code
       uses: actions/checkout@v3
 
@@ -38,5 +34,8 @@ jobs:
         git config user.email "<>"
         git commit -m "Add subsetted font files"
 
+    - name: Git pull
+      run: git pull origin output
+      
     - name: Push the output files to the output branch
       run: git push origin main:output
