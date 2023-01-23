@@ -10,7 +10,7 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-      
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -25,20 +25,14 @@ jobs:
     - name: Run the main script
       run: python main.py
 
-    - name: Commit and push the output files
-      uses: actions/git-client@v4
-      with:
-        args: add output_files/
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-    - name: Commit and push the output files
+    - name: Add the output files
+      run: git add output_files/
+
+    - name: Commit the output files
       run: |
         git config user.name "GitHub Actions Bot"
         git config user.email "<>"
         git commit -m "Add subsetted font files"
-      uses: actions/git-client@v4
-      with:
-        args: push -u origin output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Push the output files to the output branch
+      run: git push origin main:output
