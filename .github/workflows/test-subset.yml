@@ -15,7 +15,10 @@ jobs:
     - name: Fetch the remote output branch
       run: git fetch origin output
     - name: Merge remote output branch with local
-      run: git merge --allow-unrelated-histories origin/output
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "<>"
+        git merge --allow-unrelated-histories origin/output
 
     - name: Set up Python
       uses: actions/setup-python@v4
