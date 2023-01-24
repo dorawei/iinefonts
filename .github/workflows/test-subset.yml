@@ -14,6 +14,9 @@ jobs:
         ref: main
     - name: Fetch the remote output branch
       run: git fetch origin output
+    - name: Merge remote output branch with local
+      run: git merge origin/output
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -39,8 +42,6 @@ jobs:
         git config user.email "<>"
         git commit -m "Add subsetted font files"
 
-    - name: Git pull
-      run: git pull origin output
       
     - name: Push the output files to the output branch
-      run: git push origin output
+      run: git push -f origin output
