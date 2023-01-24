@@ -159,7 +159,7 @@ def main():
                     for i in range(num_slices):
                         slice_ids.append(f'supp_{i}')
                     slices_dict['supp'] = {}
-                    for i in range(num_slices):
+                    #for i in range(num_slices):
                         #slices_dict['supp'][slice_ids[i]] = slices[i]
                         #removed supp slices for now, to reduce css file size [temp workaround]
 
