@@ -30,6 +30,12 @@ jobs:
 
     - name: Install brotli
       run: pip install brotli
+      
+    - name: Install lxml
+      run: pip install lxml
+      
+    - name: Remove existing output files
+      run: rm -r output_files/
 
     - name: Run the main script
       run: python main.py
