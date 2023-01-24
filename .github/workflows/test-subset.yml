@@ -15,7 +15,7 @@ jobs:
     - name: Fetch the remote output branch
       run: git fetch origin output
     - name: Merge remote output branch with local
-      run: git merge origin/output
+      run: git merge --allow-unrelated-histories origin/output
 
     - name: Set up Python
       uses: actions/setup-python@v4
