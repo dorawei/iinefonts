@@ -129,7 +129,7 @@ def main():
             # Get final character list for each language
             final_char_list = {}
             for lang in langs:
-                print(lang)
+                print(f'Subsetting {font_name} {lang}...')
                 css_code_complete = ""
                 final_char_list = {'google': [], 'supp': []}
                 for char in google_freq[lang]:
@@ -160,8 +160,8 @@ def main():
                         slice_ids.append(f'supp_{i}')
                     slices_dict['supp'] = {}
                     for i in range(num_slices):
-                        slices_dict['supp'][slice_ids[i]] = slices[i]
-                    #slices_dict['supp'] = generate_slices(final_char_list['supp'], 600)
+                        #slices_dict['supp'][slice_ids[i]] = slices[i]
+                        #removed supp slices for now, to reduce css file size [temp workaround]
 
                 # Generate subsetted font files
                 for slice_type, slices in slices_dict.items():
