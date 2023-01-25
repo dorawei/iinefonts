@@ -32,21 +32,41 @@ def generate_css(font_name, slice_id, unicode_ranges, lang, css_code_complete):
     return css_code_complete
 
 
-def convert_to_unicode_ranges(string):
-    # Initialize empty list to store unicode ranges
-    unicode_ranges = []
-    # Iterate over each character in the string
+def string_to_unicode_range(string):
+    unicode_range = ""
+    last_code = None
+    range_start = None
     for char in string:
-        # Get the unicode code point of the character
-        code_point = ord(char)
-        # If the code point is in the ASCII range, add it to the list as is
-        if code_point < 128:
-            unicode_ranges.append(f"U+{code_point:04X}")
-        # If the code point is outside the ASCII range, add it to the list as a range
+        code = ord(char)
+        hex_code = hex(code)[2:].upper().lstrip("0")
+        if len(hex_code) == 0:
+            hex_code = "0"
+
+        if last_code is not None and code - last_code == 1:
+            last_code = code
         else:
-            unicode_ranges.append(f"U+{code_point:04X}-{code_point:04X}")
-    # Join the list of unicode ranges into a single string
-    return ",".join(unicode_ranges)
+            if range_start is not None:
+                unicode_range += f"U+{range_start}-{hex(last_code)[2:].upper().lstrip('0')}, "
+                range_start = None
+            range_start = hex_code
+            last_code = code
+    if range_start is not None:
+        unicode_range += f"U+{range_start}-{hex(last_code)[2:].upper().lstrip('0')}"
+    return unicode_range
+
+
+def clean_unicode_range(s):
+    s = s.replace(", ", ",") # remove spaces after commas
+    ranges = s.split(",")
+    cleaned_ranges = []
+    for r in ranges:
+        parts = r.split("-")
+        parts[0] = parts[0].replace("U+", "") # remove "U+" prefix
+        if parts[0] == parts[1]:
+            cleaned_ranges.append("U+"+parts[0])
+        else:
+            cleaned_ranges.append(r)
+    return ",".join(cleaned_ranges)
     
 
 def generate_subsetted_font(font_file, unicode_ranges, font_name, slice_id, lang):
@@ -166,7 +186,7 @@ def main():
                 # Generate subsetted font files
                 for slice_type, slices in slices_dict.items():
                     for slice_id, slice_chars in slices.items():
-                        unicode_ranges = convert_to_unicode_ranges(slice_chars)
+                        unicode_ranges = clean_unicode_range(string_to_unicode_range(slice_chars))
                         generate_subsetted_font(font_file, unicode_ranges, font_name, slice_id, lang)
                         css_code_complete = generate_css(font_name, slice_id, unicode_ranges, lang, css_code_complete)
 
